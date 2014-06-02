@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1401710337 source:/home/wolfblood/桌面/数据结构/tree1/main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<stack>
+	<queue>
+
