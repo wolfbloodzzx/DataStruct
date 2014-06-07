@@ -35,6 +35,7 @@ int deep(Bitree T)
 }
 int main()
 {
+    cout<<"求树的深度"<<endl;
     Bitree rt;
     createBiTree(&rt);
     cout <<deep(rt)<<endl;
