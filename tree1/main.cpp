@@ -76,12 +76,16 @@ void cengci(Bitree T)           //层次遍历
 
 int main()
 {
+    cout << "树的非递归遍历"<<endl;
     Bitree rt= new Bitnode;
     createBiTree(&rt);
+    cout << "先序遍历"<<endl;
     pre(rt);
     cout << endl;
+    cout << "中序遍历"<<endl;
     mid(rt);
     cout << endl;
+    cout << "层次遍历"<<endl;
     cengci(rt);
     return 0;
 }
