@@ -49,12 +49,17 @@ void hou(Bitnode*T)
 }
 int main()
 {
+    cout << "树的递归遍历"<<endl;
     Bitnode *rt=new Bitnode;
     createBiTree(&rt);
+    cout<<"先序遍历"<<endl;
     pre(rt);
     cout << endl;
+    cout <<"中序遍历"<<endl;
     mid(rt);
     cout << endl;
+    cout << "后序遍历"<<endl;
     hou(rt);
+    cout<< endl;
     return 0;
 }
