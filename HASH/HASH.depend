@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402196710 source:c:\users\wolfblood\desktop\hash\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
