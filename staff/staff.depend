@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1395046017 source:/home/wolfblood/ACM/staff/main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1395048817 source:c:\users\子兴\desktop\可移动磁盘\数据结构\staff\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

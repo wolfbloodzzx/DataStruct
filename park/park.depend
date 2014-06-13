@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1396356271 source:c:\users\згаЫ\desktop\park\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<string>
+	<cstring>
+	<cstdio>
+
+1396358994 source:e:\park\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<ctime>
+	<string>
+	<cstring>
+	<cstdio>
+

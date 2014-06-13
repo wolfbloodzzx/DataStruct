@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1395045947 source:/home/wolfblood/ACM/Josephus/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
